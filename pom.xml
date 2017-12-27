@@ -23,7 +23,7 @@
 		<version>2.5.6</version>
 	</dependency>
     
-    <!-- MySQL database driver -->
+    <!-- s3-bucket -->
 	<dependency>
 		<groupId>mysql</groupId>
 		<artifactId>mysql-connector-java</artifactId>
